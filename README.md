@@ -1,4 +1,4 @@
-## Hi there 👋 , wanna buy some crack ?
+## Hi there 👋 , lets do some coding broski !
 
 <!--
 **Wuccotah/Wuccotah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
